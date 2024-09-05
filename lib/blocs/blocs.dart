@@ -1,0 +1,11 @@
+export 'authentication/authentication_bloc.dart';
+export 'login/login_bloc.dart';
+export 'home/home_bloc.dart';
+export 'register/register_bloc.dart';
+export 'forgot_password/forgot_password_bloc.dart';
+export 'forgot_password/verify_code/verify_code_bloc.dart';
+export 'register/verify_code/verify_code_bloc.dart';
+export 'profile/profile_bloc.dart';
+export 'notifications/notifications_bloc.dart';
+export 'settings/settings_bloc.dart';
+export 'student/student_bloc.dart';

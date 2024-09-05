@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "IT Staff",
+        "client_name": "Client Name",
+        "location": "1234 West Sesame St Atlanta, GA 30308",
+        "time_range": "8:00 AM to 5:00 PM",
+        "date": "Monday, August 3rd 2020 (today)"
+    },
+    {
+        "id": 2,
+        "title": "IT Staff",
+        "client_name": "Client Name",
+        "location": "1234 West Sesame St Atlanta, GA 30308",
+        "time_range": "8:00 AM to 5:00 PM",
+        "date": "Tuesday, August 4th 2020 (Tomorrow)"
+    },
+    {
+        "id": 3,
+        "title": "IT Staff",
+        "client_name": "Client Name",
+        "location": "1234 West Sesame St Atlanta, GA 30308",
+        "time_range": "8:00 AM to 5:00 PM",
+        "date": "Wednesday, August 5th 2020"
+    },
+    {
+        "id": 4,
+        "title": "IT Staff",
+        "client_name": "Client Name",
+        "location": "1234 West Sesame St Atlanta, GA 30308",
+        "time_range": "8:00 AM to 5:00 PM",
+        "date": "Thursday, August 6th 2020"
+    },
+    {
+        "id": 5,
+        "title": "IT Staff",
+        "client_name": "Client Name",
+        "location": "1234 West Sesame St Atlanta, GA 30308",
+        "time_range": "8:00 AM to 5:00 PM",
+        "date": "Friday, August 7th 2020"
+    }
+]

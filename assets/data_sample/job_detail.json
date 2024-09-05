@@ -1,0 +1,47 @@
+{
+    "job": {
+      "id": 1,
+      "client_id": 1,
+      "branch_id": 1,
+      "title": "Project 01",
+      "description": "<p>Desc P01</p>",
+      "status": "pending",
+      "addr_full": "2306 Rayford Road, Spring, TX, USA",
+      "addr_street": "2306 Rayford Road",
+      "addr_district": "Montgomery County",
+      "addr_state": "TX",
+      "addr_postalcode": "77386",
+      "addr_lat": "30.1229587",
+      "addr_lng": "-95.40726049999999",
+      "created_at": "2020-08-13 09:42:41",
+      "updated_at": "2020-08-13 09:42:41"
+    },
+    "position": {
+      "id": 2,
+      "job_id": 1,
+      "title": "J02",
+      "seeker": 50,
+      "description": "Desc J02",
+      "skilled": 1,
+      "hours_per_day": 8,
+      "start_date": "2020-08-21",
+      "end_date": "2020-08-28",
+      "time_start_work": "08:00:00",
+      "time_end_work": "17:00:00",
+      "days_in_week": "1,2,3,4,5",
+      "pay_type": "bi_week",
+      "pay_rate": 600,
+      "branch_pay_rate": 550,
+      "branch_description": "This is description from branch",
+      "status": "pending",
+      "created_at": "2020-08-13 09:42:41",
+      "updated_at": "2020-08-13 09:42:41",
+      "p_skills": "Accounting, Budget",
+      "p_types": "Full-time"
+    },
+    "benefits": [
+      "Dental",
+      "Medical"
+    ],
+    "status": "accept"
+}
